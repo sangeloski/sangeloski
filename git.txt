@@ -9,3 +9,7 @@ git push origin master
  
 git remote add origin https://github.com/sangeloski/demo-repo2.git
 git remote -v
+git push -u origin master 
+
+git branch
+git checkout -b feature-readme-instructure
