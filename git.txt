@@ -9,3 +9,11 @@ git push origin master
  
 git remote add origin https://github.com/sangeloski/demo-repo2.git
 git remote -v
+git push -u origin master 
+
+git branch /da se proveri na koj bracn se raboti
+git checkout -b feature-readme-instructure /da napravi nov feature
+git checkout / da se prevrli na drug branch
+git diff / da se vidi koj se promenite
+
+git push -u origin feature-readme-instructure / da se uploadiraat 
